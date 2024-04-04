@@ -1,4 +1,5 @@
 import React from 'react'
+import { useState } from 'react'
 
 function ColorForm(props){
     let [input, setInput] = useState('')
